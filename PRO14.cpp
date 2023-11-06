@@ -6,6 +6,8 @@ class MyClass
     	// Constructor
     	MyClass()
 		{
+		cout<< "Viradiya pinak";
+    	        cout<< "220130318014";
         	cout << "Object created" << endl;
     	}
 
