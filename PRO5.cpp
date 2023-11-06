@@ -8,6 +8,8 @@ class student
     	
     	void getdata()
     	{
+		cout<< "Viradiya pinak";
+                 cout<< "220130318014";
     		cout<<"Enter name of Student :: ";
     		cin>>name;
     		
