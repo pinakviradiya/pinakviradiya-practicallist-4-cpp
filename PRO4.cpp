@@ -3,6 +3,8 @@ using namespace std;
 class temp
 {
 	public:
+                cout<< "Viradiya pinak";
+                cout<< "220130318014";
 		int a,b;
 
 		int add(temp t)
