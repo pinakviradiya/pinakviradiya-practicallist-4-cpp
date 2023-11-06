@@ -20,6 +20,8 @@ class Product
 };
 void print_year(Product p)
 {
+	cout<< "Viradiya pinak";
+        cout<< "220130318014";
     cout<<"Product Name is :: "<<p.name<<endl;
     cout<<"Year of Life is :: "<<p.c_Y()<<endl;
 }
