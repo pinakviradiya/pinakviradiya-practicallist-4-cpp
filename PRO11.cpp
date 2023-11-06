@@ -11,7 +11,9 @@ class student
 				name=n;
 			}
 			void display()
-			{
+                        {
+				cout<< "Viradiya pinak";
+    			        cout<< "220130318014";
 				cout<<"Your rollno is :: "<<roll_no<<endl;
 				cout<<"Your name is   :: "<<name<<endl;
 			}
