@@ -5,6 +5,8 @@ class student
 	public:
 			student()
 			{
+				cout<< "Viradiya pinak";
+    			        cout<< "220130318014";
 				cout<<"constructor invoked"<<endl;
 			}
 			~student()
