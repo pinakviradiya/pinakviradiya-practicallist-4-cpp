@@ -14,6 +14,8 @@ class sum
 			}
 			void display(void)
 			{
+				cout<< "Viradiya pinak";
+    			         cout<< "220130318014";
 				cout<<"Value of number 1 is :: "<<n1<<endl;
 				cout<<"Value of number 2 is :: "<<n2<<endl;
 			}
