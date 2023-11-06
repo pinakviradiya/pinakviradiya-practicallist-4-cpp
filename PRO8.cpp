@@ -11,6 +11,8 @@ class b
 	public:
 			void dispaly(a &a1)
 			{
+				cout<< "Viradiya pinak";
+    			        cout<< "220130318014";
 				cout<<"Value of A is :: "<<a1.A;
 			}
 };
