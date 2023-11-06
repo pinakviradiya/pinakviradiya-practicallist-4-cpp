@@ -3,6 +3,8 @@ using namespace std;
 class information
 {
 	public:
+                       cout<< "Viradiya pinak";
+    			 cout<< "220130318014";
 			int age,bdate;
 			student()
 			{
