@@ -9,6 +9,8 @@ class employee
 	public:
 		void get_employee()
 		{
+			 cout<< "Viradiya pinak";
+    			 cout<< "220130318014";
 			cout<<"Enter Employee Name   :: ";
 			cin>>name;
 
