@@ -8,6 +8,8 @@ class Add
 	public:
 			void getdata()
 			{
+				cout<< "Viradiya pinak";
+    			         cout<< "220130318014";
 				cout<<"Enter the value of Number 1 is :: ";
 				cin>>n1;
 				cout<<"Enter the value of Number 2 is :: ";
