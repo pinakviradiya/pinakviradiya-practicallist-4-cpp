@@ -8,6 +8,8 @@ class temp
 	public:
 		static void add()
 		{
+			cout<< "Viradiya pinak";
+    			 cout<< "220130318014";
 			cout<<"Sum of Two Number is :: "<<a+b<<endl;
 		}
 }t1;
