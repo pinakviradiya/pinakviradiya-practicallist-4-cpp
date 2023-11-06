@@ -22,6 +22,8 @@ class Person
    
         	void display()
 		{
+		cout<< "Viradiya pinak";
+    	         cout<< "220130318014";
         	cout << "Name: " << name << endl;
         	cout << "Age: " << age << endl;
     	}
